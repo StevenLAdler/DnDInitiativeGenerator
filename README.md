@@ -1,4 +1,4 @@
-"# DnDInitiativeGenerator"\n 
-Simple DnD initiative generator\n
-Supports 5 levels of tiebreaking\n
-Any amount of people (although the curent fixed window size would only fit ~15)
+"# DnDInitiativeGenerator"\
+Simple DnD initiative generator\
+Supports 5 levels of tiebreaking\
+Any amount of people (although the curent fixed window size would only fit ~15)\
